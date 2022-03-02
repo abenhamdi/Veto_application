@@ -1,2 +1,2 @@
 # Veto_application
-Déploiement d'une application bureau pour un cabinet de vétérinaire 
+Deployment of a desktop application for a veterinary office.
